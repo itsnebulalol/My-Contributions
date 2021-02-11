@@ -13,7 +13,7 @@ List of Open Source projects I have contributed to on GitHub
 
 * [Hacktoberfest2020](https://github.com/itsnebulalol/Hacktoberfest2020) - Make your Hacktoberfest 2020 contribution here! Win stickers and a T-shirt on completing 4 pull requests. (Specially for beginners)! :D
 
-* [My-Contributions](https://github.com/itsnebulalol/My-Contributions) - List of Nebula's forked Open Source projects on GitHub.
+* [My-Contributions](https://github.com/itsnebulalol/My-Contributions) - List of Open Source projects Nebula contributed to on GitHub.
 
 * [my-stars](https://github.com/itsnebulalol/my-stars) - My starred repos
 
