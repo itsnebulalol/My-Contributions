@@ -19,6 +19,8 @@ List of Open Source projects I have contributed to on GitHub
 
 * [OppyClient-Utils](https://github.com/itsnebulalol/OppyClient-Utils) - Public utils people can use.
 
+* [register](https://github.com/itsnebulalol/register) - Grab your own sweet-looking '.is-a.dev' subdomain
+
 * [Sorus-Client](https://github.com/itsnebulalol/Sorus-Client)
 
 * [spotify-readme](https://github.com/itsnebulalol/spotify-readme) - Dynamic realtime profile ReadMe linked with spotify
